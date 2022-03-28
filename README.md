@@ -1,4 +1,4 @@
-# ANÁLISE EXPLORATÓRIA COM PANDAS E SQLSERVER
+# ANÁLISE EXPLORATÓRIA COM PANDAS E SQL SERVER
 
 A ideia deste projeto é mostrar como é fácil conectar ao banco de dados com python e, dessa forma, utilizar para análises.
 
